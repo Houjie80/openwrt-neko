@@ -6,7 +6,7 @@ name: Building Neko DEVyt
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'Makefile'
   workflow_dispatch:
